@@ -26,4 +26,4 @@ Options:
 
 # Example
 
-![SGD Training](http://img.youtube.com/vi/-mmMzCEmFI8/0.jpg)
+[![SGD Training](http://img.youtube.com/vi/-mmMzCEmFI8/0.jpg)](https://www.youtube.com/watch?v=-mmMzCEmFI8)
